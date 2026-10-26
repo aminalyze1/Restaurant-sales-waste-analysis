@@ -1,4 +1,15 @@
-# 🍽️ Restaurant Sales & Waste Reduction Analysis
+# Restaurant Sales & Waste Reduction Analysis
+
+## Table of contents
+- [Project Overview](#project-overview)
+
+
+
+
+
+
+
+
 
 ## 📌 Project Overview
 
