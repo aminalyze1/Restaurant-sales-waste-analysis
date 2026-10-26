@@ -2,16 +2,24 @@
 
 ## Table of contents
 - [Project Overview](#project-overview)
+- [Business Problem](#Business-Problem)
+- [Project Objectives](#project-Objectives)
+- [Dataset](#DDataset)
+- [Methdology](#project-overview)
+- [Key Performance Reslts](#Key-Performance-Results)
+- [Key Insight](#Key-Insights)
+- [Strategic Reccomendation](#Strategic-Reccomendation)
+- [Expected Business Impact](#Expected-Business-Impact)
+- [Project Limitation](#project-Limitation)
+- [Future Improvement](#Future-Improvement)
+- [Tools Used](#Tools-Used)
+- [Skills Demostrated](#Skills-Demonstrated)
+- [Project Outcome](#project-Outcome)
+- [About the Analyst](#About-the-Analyst)
 
 
 
-
-
-
-
-
-
-## 📌 Project Overview
+## Project Overview
 
 Food waste is one of the hidden operational costs in the restaurant industry. While sales reports can show how much a restaurant sells, they do not necessarily reveal how much inventory is being wasted or how that waste affects profitability.
 
@@ -32,7 +40,7 @@ The central objective was to move beyond **"What are we selling?"** and investig
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Restaurants can experience significant losses through:
 
@@ -45,13 +53,7 @@ Restaurants can experience significant losses through:
 
 Traditional sales reporting may identify which products generate the most revenue, but it does not necessarily explain whether those products are being produced efficiently.
 
-### Business Question
-
-> **How can sales and inventory waste data be combined to identify operational inefficiencies and opportunities to reduce waste while protecting profitability?**
-
----
-
-# 🎯 Project Objectives
+#  Project Objectives
 
 The dashboard was designed to answer the following business questions:
 
@@ -66,7 +68,7 @@ The dashboard was designed to answer the following business questions:
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 ## Source Sales Dataset
 
@@ -100,7 +102,7 @@ The simulated data was designed to represent realistic operational waste pattern
 
 ---
 
-# 🔄 Methodology
+# Methodology
 
 The project followed a structured data analytics workflow from raw data preparation through business recommendations.
 
@@ -266,7 +268,7 @@ Provides a product-level comparison of waste percentages.
 
 ---
 
-# 📈 Key Performance Results
+# Key Performance Results
 
 The dashboard revealed the following overall performance:
 
@@ -488,7 +490,7 @@ This would enable more accurate operational and profitability analysis.
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 With access to additional business data, this project could be extended into a more advanced restaurant analytics solution.
 
@@ -523,7 +525,7 @@ Combine ingredient-level costs with sales and waste to calculate more accurate p
 
 ---
 
-# 🛠️ Tools Used
+# Tools Used
 
 * **Power BI** — Data modelling, analysis and dashboard development
 * **Power Query** — Data cleaning and transformation
@@ -532,7 +534,7 @@ Combine ingredient-level costs with sales and waste to calculate more accurate p
 
 ---
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
