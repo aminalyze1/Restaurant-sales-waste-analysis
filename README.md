@@ -147,25 +147,25 @@ One of the major lessons from this analysis is that a product can contribute sig
 
 #  Strategic Recommendations
 
-1. Optimize Production Planning for High-Waste ProductsProducts such as **Sandwiches, Panipuri, and Sugarcane Juice** recorded the highest waste percentages.
+ 1. Optimize Production Planning for High-Waste ProductsProducts such as **Sandwiches, Panipuri, and Sugarcane Juice** recorded the highest waste percentages.
 
-2.Waste concentration during specific periods suggests that preparation may occur before demand materializes.
-Historical sales patterns should be used to develop time-based production.
+ 2. Waste concentration during specific periods suggests that preparation may occur before demand materializes.
+ Historical sales patterns should be used to develop time-based production.
 
-3. Strengthen Inventory Monitoring
+ 3. Strengthen Inventory Monitoring
 
 An overall waste rate of approximately **11%** represents a meaningful operational cost.
 Regular inventory monitoring and product-level waste thresholds should be established to strengthen inventory monitoring.
 
-4. Reassess Underperforming High-Waste Menu Items
+ 4. Reassess Underperforming High-Waste Menu Items
 
 Products generating relatively high waste while contributing less to sales can negatively affect profitability.
 
-5. Establish Waste Performance KPIs
+ 5. Establish Waste Performance KPIs
 
 Waste reduction should be continuously monitored rather than treated as a one-time project.
 
-6. Integrate Sales and Inventory Reporting
+ 6. Integrate Sales and Inventory Reporting
 
 The analysis demonstrates the value of looking at sales and waste together.
 
@@ -235,7 +235,7 @@ With access to additional business data, this project could be extended into a m
 
 ---
 
-# 🎯 Project Outcome
+# Project Outcome
 
 This project demonstrates how combining **sales and inventory data** can reveal operational inefficiencies that traditional sales reporting may overlook.
 
@@ -247,7 +247,7 @@ The project ultimately demonstrates how business intelligence can turn operation
 
 ---
 
-## 👩🏽‍💻 About the Analyst
+## About the Analyst
 
 **Ariyibi Aminat**
 Data & Business Intelligence Analyst
