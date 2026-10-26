@@ -243,8 +243,6 @@ Rather than focusing exclusively on revenue, the analysis connects **sales perfo
 
 The project ultimately demonstrates how business intelligence can turn operational records into actionable insights that support:
 
-> **Better production decisions → Lower waste → Improved efficiency → Stronger profitability**
-
 ---
 
 ## About the Analyst
